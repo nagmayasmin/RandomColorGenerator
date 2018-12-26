@@ -6,5 +6,4 @@ VS 2017 is used to create the project. Nuget package "Newtonsoft.Json" and "Xam.
 
 This project is in the development stage.
 
-Video link:
-https://www.screencast.com/t/wzMKXCtPN
+Preview: https://www.screencast.com/t/wzMKXCtPN
