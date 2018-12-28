@@ -1,4 +1,4 @@
-# RandomColorGenerator
+# Random Color Generator
 
 This is a Xamarin Android project that creates a random color and also the corresponding compelmentatry colors. Based on the selection, JSON file of the selected color could be sent via text or email.
 
